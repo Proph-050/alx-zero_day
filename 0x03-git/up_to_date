@@ -1,2 +1,2 @@
 #!/bin/bash
-git merge
+git pull
