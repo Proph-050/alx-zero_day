@@ -1,1 +1,1 @@
-making my first directory
+updating my gitHub readme.md
